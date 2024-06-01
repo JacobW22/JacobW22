@@ -61,7 +61,7 @@
 ## Top Open Source -
 [![Youtube_helper](https://github-readme-stats.vercel.app/api/pin/?username=JacobW22&repo=Youtube_helper&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JacobW22/Youtube_helper)
 [![Shop_finder](https://github-readme-stats.vercel.app/api/pin/?username=JacobW22&repo=Shop_finder&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JacobW22/Shop_finder)
-[![Wordle](https://github-readme-stats.vercel.app/api/pin/?username=JacobW22&repo=Wordle&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF))](https://github.com/JacobW22/Youtube_helper)
+[![Wordle](https://github-readme-stats.vercel.app/api/pin/?username=JacobW22&repo=Wordle&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF))](https://github.com/JacobW22/Wordle)
 
 <p align="left">
   <a href="https://github.com/JacobW22?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
