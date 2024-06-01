@@ -34,7 +34,7 @@
  # About me
  
 <p>
- <img align="right" width="350"  style="border-radius: 25%; padding: 0" src="/coding.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/coding.gif" alt="Coding gif" />
   
  💻 &nbsp;Passionate about leveraging Python to solve complex problems, I am an aspiring developer dedicated to continuous learning and innovation. <br/><br/>
  🛠️ &nbsp;Love to writing code and learning new features<br/><br/>
