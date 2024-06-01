@@ -35,9 +35,9 @@
 <p>
  <img align="right" width="350" src="/coding.gif" alt="Coding gif" />
   
- 💻 Passionate about leveraging Python to solve complex problems, I am an aspiring developer dedicated to continuous learning and innovation. <br/><br/>
- 🛠️ Love to writing code and learning new features<br/><br/>
- 📧 Reach me anytime: jwis02202@gmail.com<br/><br/>
+ 💻 &nbsp;Passionate about leveraging Python to solve complex problems, I am an aspiring developer dedicated to continuous learning and innovation. <br/><br/>
+ 🛠️ &nbsp;Love to writing code and learning new features<br/><br/>
+ 📧 &nbsp;Reach me anytime: jwis02202@gmail.com<br/><br/>
 
 </p>
 
